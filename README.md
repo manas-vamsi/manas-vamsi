@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently developing my skills on Data Analyst and Java Full Stack<br>⚡ Fun fact: Datasheets speaks more...
+🔭 I’m currently developing my skills on Data Analyst. <br>⚡ Fun fact: Datasheets speaks more...
 
 
 ## 🌐 Socials:
