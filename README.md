@@ -45,15 +45,11 @@
 ---
 
 
-## 🔥 Streak Stats  
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=manasavamsi&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak — Manasa Vamsi" height="180"/>
-</p>
-
 
 ## ✨ Quote I Live By  
 > *“An investment in knowledge pays the best interest.”* – Benjamin Franklin  
 
 ---
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manasavamsi&theme=tokyonight" alt="GitHub Streak" />
+</p>
