@@ -44,13 +44,12 @@
 
 ---
 
-## 📊 GitHub Analytics  
+## 📊 GitHub Analytics — Manasa Vamsi  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manasavamsi&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manasavamsi&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=manasavamsi&show_icons=true&theme=tokyonight" alt="Manasa Vamsi's GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manasavamsi&layout=compact&theme=tokyonight" alt="Top Languages (Manasa Vamsi)" height="180"/>
 </p>
 
----
 
 ## ✨ Quote I Live By  
 > *“An investment in knowledge pays the best interest.”* – Benjamin Franklin  
