@@ -44,17 +44,6 @@
 
 ---
 
-## 📊 GitHub Analytics — Manasa Vamsi  
-
-<p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=manasavamsi&show_icons=true&theme=tokyonight" alt="Manasa Vamsi's GitHub Stats" height="180"/>
-  
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manasavamsi&layout=compact&theme=tokyonight" alt="Top Languages (Manasa Vamsi)" height="180"/>
-</p>
-
----
 
 ## 🔥 Streak Stats  
 
@@ -67,8 +56,4 @@
 > *“An investment in knowledge pays the best interest.”* – Benjamin Franklin  
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manasavamsi&theme=tokyonight" alt="GitHub Streak" />
-</p>
 
