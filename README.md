@@ -1,15 +1,63 @@
-# 💫 About Me:
-🔭 I’m currently developing my skills on Data Analyst. <br>⚡ Fun fact: Datasheets speaks more...
+<h1 align="center">Hi 👋, I'm Manasa Vamsi</h1>
+<h3 align="center">Aspiring AI & Quant Finance Enthusiast | Data Analyst | Always Learning 🚀</h3>
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/manas.bade) 
-# 💻 Tech Stack:
-![Machine Learning](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Deep Learning](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 	![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Power Bi](https://img.shields.io/badge/PowerBI-%23EE4C2C.svg?style=for-the-badge&logo=PowerBI&logoColor=white)
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Passionate+about+AI+%26+Quant+Finance;Turning+Data+into+Decisions;Exploring+Machine+Learning+and+RAG;Building+with+LangChain+and+Analytics" alt="Typing SVG" />
+</p>
 
 ---
+
+## 🌟 About Me  
+- 🌱 Currently learning **AI, Quant Finance, and RAG (Retrieval Augmented Generation)**  
+- 🔭 Skilled in **Data Analytics, Machine Learning, and Business Intelligence**  
+- 📊 Keen to apply my knowledge in **real-world finance & AI-driven decision making**  
+- ⚡ Fun fact: *Numbers tell stories if you know how to listen*  
+
+---
+
+## 🔗 Connect with Me  
+<p align="left">
+<a href="https://instagram.com/manas.bade" target="blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/manasavamsi" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
+<a href="mailto:manasvamsi88@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+## 🛠️ Tech Stack  
+
+### 🔹 Core Skills  
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
+![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
+![Power BI](https://img.shields.io/badge/PowerBI-%23EE4C2C.svg?style=for-the-badge&logo=PowerBI&logoColor=white)  
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
+
+### 🔹 Data & AI  
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  
+![NumPy](https://img.shields.io/badge/Numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)  
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)  
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white)  
+![RAG](https://img.shields.io/badge/RAG-%23009639.svg?style=for-the-badge&logo=AI&logoColor=white)  
+
+### 🔹 Others  
+![MCP](https://img.shields.io/badge/MCP-%23239120.svg?style=for-the-badge&logo=microsoft&logoColor=white)  
+
+---
+
+## 📊 GitHub Analytics  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=manasavamsi&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manasavamsi&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
+</p>
+
+---
+
+## ✨ Quote I Live By  
+> *“An investment in knowledge pays the best interest.”* – Benjamin Franklin  
+
+---
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manasavamsi&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
