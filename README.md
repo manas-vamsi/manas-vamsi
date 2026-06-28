@@ -141,9 +141,11 @@ An interactive, hands-on notebook of **quantum computing** concepts and code.
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=manas-vamsi&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=050014&title_color=FF2EE6&icon_color=00E5FF&text_color=F5F3FF" alt="stats"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=manas-vamsi&hide_border=true&background=050014&ring=FF2EE6&fire=00E5FF&currStreakNum=F5F3FF&sideNums=F5F3FF&currStreakLabel=FF2EE6&sideLabels=00E5FF&dates=C4B5FD&stroke=B026FF" alt="streak"/>
-
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manas-vamsi&layout=compact&hide_border=true&bg_color=050014&title_color=FF2EE6&text_color=F5F3FF&langs_count=10" alt="top langs"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=manas-vamsi&bg_color=050014&color=FF2EE6&line=00E5FF&point=F5F3FF&area=true&area_color=7B1FA2&hide_border=true&custom_title=Contribution%20waveform%20%E2%9A%9B" width="100%" alt="contribution activity graph"/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=manas-vamsi&theme=radical&no-frame=true&column=7&margin-w=4&margin-h=4" width="100%" alt="trophies"/>
 
