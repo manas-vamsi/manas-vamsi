@@ -1,10 +1,14 @@
-<!-- ░░░ BADE MANASA VAMSI · |ψ⟩ profile README · quantum-space ░░░ -->
+<!-- ░░░ BADE MANASA VAMSI · |ψ⟩ profile README · neon quantum-space ░░░ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:060019,25:4C1D95,55:C026D3,100:22D3EE&height=210&section=header&text=Manasa%20Vamsi&fontSize=56&fontColor=F5F3FF&fontAlignY=34&desc=AI%20Engineer%20%C2%B7%20Quantum%20Software%20Engineer&descSize=20&descAlignY=56&animation=fadeIn" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050014,25:7B1FA2,55:FF2EE6,100:00E5FF&height=210&section=header&text=Manasa%20Vamsi&fontSize=56&fontColor=F5F3FF&fontAlignY=34&desc=AI%20Engineer%20%C2%B7%20Quantum%20Software%20Engineer&descSize=20&descAlignY=56&animation=fadeIn" width="100%" alt="header"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=900&color=C026D3&center=true&vCenter=true&width=760&lines=AI+Engineer+%C3%97+Quantum+Software+Engineer;Engineering+intelligence%2C+one+qubit+at+a+time+%E2%9A%9B;Superposing+machine+learning+and+quantum;From+Hilbert+space+to+product+space+%F0%9F%9A%80;Elixir+%C2%B7+Phoenix+%C2%B7+Ash+AI+%C2%B7+Python+%C2%B7+RAG" alt="typing" />
+<img src="https://raw.githubusercontent.com/manas-vamsi/manas-vamsi/main/assets/bloch.svg" width="210" alt="animated neon Bloch sphere — my state vector"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=900&color=FF2EE6&center=true&vCenter=true&width=760&lines=AI+Engineer+%C3%97+Quantum+Software+Engineer;Engineering+intelligence%2C+one+qubit+at+a+time+%E2%9A%9B;Superposing+machine+learning+and+quantum;From+Hilbert+space+to+product+space+%F0%9F%9A%80;Elixir+%C2%B7+Phoenix+%C2%B7+Ash+AI+%C2%B7+Python+%C2%B7+RAG" alt="typing" />
 
 <br/>
 
@@ -12,7 +16,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=manas-vamsi&style=flat-square&color=C026D3&label=souls+entangled" alt="views"/>
+<img src="https://komarev.com/ghpvc/?username=manas-vamsi&style=flat-square&color=FF2EE6&label=souls+entangled" alt="views"/>
 &nbsp;
 <a href="https://www.linkedin.com/in/manasavamsi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin"/></a>
 &nbsp;
@@ -104,14 +108,14 @@ An interactive, hands-on notebook of **quantum computing** concepts and code.
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-C026D3?style=for-the-badge&logo=databricks&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FF2EE6?style=for-the-badge&logo=databricks&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=anthropic&logoColor=white)
 
 **Quantum**
 <br/>
 ![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white)
 ![PennyLane](https://img.shields.io/badge/PennyLane-2D7FF9?style=for-the-badge&logo=xaml&logoColor=white)
-![QuTiP](https://img.shields.io/badge/QuTiP-4C1D95?style=for-the-badge&logo=python&logoColor=white)
+![QuTiP](https://img.shields.io/badge/QuTiP-B026FF?style=for-the-badge&logo=python&logoColor=white)
 
 **Backend & data**
 <br/>
@@ -136,12 +140,12 @@ An interactive, hands-on notebook of **quantum computing** concepts and code.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=manas-vamsi&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=060019&title_color=C026D3&icon_color=22D3EE&text_color=EDE9FE" alt="stats"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=manas-vamsi&hide_border=true&background=060019&ring=C026D3&fire=22D3EE&currStreakLabel=C026D3&sideLabels=EDE9FE&dates=8A94A6&stroke=4C1D95" alt="streak"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=manas-vamsi&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=050014&title_color=FF2EE6&icon_color=00E5FF&text_color=F5F3FF" alt="stats"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=manas-vamsi&hide_border=true&background=050014&ring=FF2EE6&fire=00E5FF&currStreakNum=F5F3FF&sideNums=F5F3FF&currStreakLabel=FF2EE6&sideLabels=00E5FF&dates=C4B5FD&stroke=B026FF" alt="streak"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manas-vamsi&layout=compact&hide_border=true&bg_color=060019&title_color=C026D3&text_color=EDE9FE&langs_count=10" alt="top langs"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manas-vamsi&layout=compact&hide_border=true&bg_color=050014&title_color=FF2EE6&text_color=F5F3FF&langs_count=10" alt="top langs"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=manas-vamsi&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%" alt="trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=manas-vamsi&theme=radical&no-frame=true&column=7&margin-w=4&margin-h=4" width="100%" alt="trophies"/>
 
 </div>
 
@@ -163,6 +167,6 @@ An interactive, hands-on notebook of **quantum computing** concepts and code.
 
 <i>“Entanglement is just teamwork at a distance.” — and the best products are entangled science + craft.</i> ⚛️🌌
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,40:C026D3,75:4C1D95,100:060019&height=130&section=footer" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,40:FF2EE6,75:7B1FA2,100:050014&height=130&section=footer" width="100%" alt="footer"/>
 
 </div>
