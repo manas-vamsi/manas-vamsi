@@ -1,14 +1,18 @@
-<!-- ░░░ BADE MANASA VAMSI · profile README ░░░ -->
+<!-- ░░░ BADE MANASA VAMSI · |ψ⟩ profile README · quantum-space ░░░ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,30:3B2C8F,70:5B5FE0,100:38BDF8&height=200&section=header&text=Manasa%20Vamsi&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=Product%20Engineer%20%C2%B7%20AI%20%C2%B7%20Quantum&descSize=20&descAlignY=58&animation=fadeIn" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:060019,25:4C1D95,55:C026D3,100:22D3EE&height=210&section=header&text=Manasa%20Vamsi&fontSize=56&fontColor=F5F3FF&fontAlignY=34&desc=AI%20Engineer%20%C2%B7%20Quantum%20Software%20Engineer&descSize=20&descAlignY=56&animation=fadeIn" width="100%" alt="header"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=900&color=5B5FE0&center=true&vCenter=true&width=720&lines=AI+Software+Engineer+%40+NexVista;I+build+AI-first+products+end-to-end;Quantum+hardware+%26+computing+explorer+%E2%9A%9B;Elixir+%C2%B7+Phoenix+%C2%B7+Ash+AI+%C2%B7+Python+%C2%B7+RAG;From+idea+%E2%86%92+design+%E2%86%92+ship+%F0%9F%9A%80" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=900&color=C026D3&center=true&vCenter=true&width=760&lines=AI+Engineer+%C3%97+Quantum+Software+Engineer;Engineering+intelligence%2C+one+qubit+at+a+time+%E2%9A%9B;Superposing+machine+learning+and+quantum;From+Hilbert+space+to+product+space+%F0%9F%9A%80;Elixir+%C2%B7+Phoenix+%C2%B7+Ash+AI+%C2%B7+Python+%C2%B7+RAG" alt="typing" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=manas-vamsi&style=flat-square&color=5B5FE0&label=Profile+views" alt="views"/>
+<code>|0⟩ ──[ H ]──●────── 🛰️ ──── |ψ⟩ = α|AI⟩ + β|quantum⟩</code>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=manas-vamsi&style=flat-square&color=C026D3&label=souls+entangled" alt="views"/>
 &nbsp;
 <a href="https://www.linkedin.com/in/manasavamsi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin"/></a>
 &nbsp;
@@ -22,25 +26,29 @@
 
 ---
 
-## ⚛️ About me
+## ⚛️ |ψ⟩ — about me
 
-> **I love taking an idea all the way to a shipped product — especially where AI meets quantum.**
+> *Like a qubit, I live in superposition — **|AI⟩ + |quantum⟩** — and collapse onto whichever basis ships the better product.*
 
-- 🧠 **AI Software Engineer @ NexVista** — building AI-first PropTech & real-estate platforms with **Elixir · Phoenix · Ash / Ash AI · PostgreSQL**, plus **ML, RAG systems & MCP**.
-- ⚛️ **Quantum-obsessed** — superconducting hardware, quantum computing, QML and quantum neural networks. IBM **Qiskit QAMP** participant and **PennyLane** tinkerer.
-- 🛠️ **Product-first** — I care about the whole loop: design → engineer → ship → iterate. I'd rather build the real thing than slideware.
-- 🌏 Based in **Hyderabad, India** · always learning, always shipping.
+```
+◦ role        AI Engineer @ NexVista · Quantum Software Engineer
+◦ building    AI-first platforms with Elixir · Phoenix · Ash AI · PostgreSQL
+◦ ml          RAG systems · MCP · NLP · applied ML
+◦ quantum     superconducting hardware · QML · quantum neural nets
+◦ creds       IBM Qiskit QAMP · PennyLane
+◦ location    Hyderabad, India   ◦ status   always shipping 🚀
+```
 
 ---
 
-## 🚀 Featured projects
+## 🔭 Featured observables
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### ⚛️ [QRIVARA — Quantum OS](https://github.com/manas-vamsi/Qrivara-Quantum-os)
-A browser-based **EDA platform for superconducting quantum chips** — design → simulate → optimize → predict yield → export, in one app, with its **own EM field solver** (no Ansys). React + FastAPI + a paper-validated physics engine.
+A browser-based **EDA platform for superconducting quantum chips** — design → simulate → optimize → predict yield → export, in one app, with its **own electromagnetic field solver** (no Ansys). React + FastAPI + a paper-validated physics engine.
 <br/><br/>
 `TypeScript` · `Python` · `FastAPI` · `NumPy/SciPy` · `Quantum`
 
@@ -66,7 +74,7 @@ An interactive, hands-on notebook of **quantum computing** concepts and code.
 <td width="50%" valign="top">
 
 ### 🧪 [AI Resume–Job Matching](https://github.com/manas-vamsi/AI-powered-Resume-Job-Matching-System)
-**NLP** system scoring resume↔job fit with TF-IDF + cosine similarity.
+**NLP** engine scoring resume↔job fit with TF-IDF + cosine similarity.
 <br/><br/>
 `Python` · `NLP` · `scikit-learn`
 
@@ -75,12 +83,12 @@ An interactive, hands-on notebook of **quantum computing** concepts and code.
 </table>
 
 <div align="center">
-<sub>Also exploring — <b>HQNN topology</b> (quantum neural nets) · <b>Carbon emissions of GPUs in LLM training</b> · <b>RAG for research papers</b> · <b>Nyra</b> · medical-imaging ML.</sub>
+<sub>🌌 entangled experiments — <b>HQNN topology</b> (quantum neural nets) · <b>Carbon emissions of GPUs in LLM training</b> · <b>RAG for research papers</b> · <b>Nyra</b> · medical-imaging ML.</sub>
 </div>
 
 ---
 
-## 🧰 Tech arsenal
+## 🌌 Entangled stack
 
 **Languages**
 <br/>
@@ -96,14 +104,14 @@ An interactive, hands-on notebook of **quantum computing** concepts and code.
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-5B5FE0?style=for-the-badge&logo=databricks&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-C026D3?style=for-the-badge&logo=databricks&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=anthropic&logoColor=white)
 
 **Quantum**
 <br/>
 ![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white)
 ![PennyLane](https://img.shields.io/badge/PennyLane-2D7FF9?style=for-the-badge&logo=xaml&logoColor=white)
-![QuTiP](https://img.shields.io/badge/QuTiP-1E3A8A?style=for-the-badge&logo=python&logoColor=white)
+![QuTiP](https://img.shields.io/badge/QuTiP-4C1D95?style=for-the-badge&logo=python&logoColor=white)
 
 **Backend & data**
 <br/>
@@ -113,7 +121,7 @@ An interactive, hands-on notebook of **quantum computing** concepts and code.
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-**Frontend & tools**
+**Frontend & tooling**
 <br/>
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
@@ -124,28 +132,28 @@ An interactive, hands-on notebook of **quantum computing** concepts and code.
 
 ---
 
-## 📊 GitHub analytics
+## 📡 Telemetry
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=manas-vamsi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0B1020&title_color=5B5FE0&icon_color=38BDF8" alt="stats"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=manas-vamsi&theme=tokyonight&hide_border=true&background=0B1020&ring=5B5FE0&fire=38BDF8&currStreakLabel=5B5FE0" alt="streak"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=manas-vamsi&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=060019&title_color=C026D3&icon_color=22D3EE&text_color=EDE9FE" alt="stats"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=manas-vamsi&hide_border=true&background=060019&ring=C026D3&fire=22D3EE&currStreakLabel=C026D3&sideLabels=EDE9FE&dates=8A94A6&stroke=4C1D95" alt="streak"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manas-vamsi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1020&title_color=5B5FE0&langs_count=10" alt="top langs"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manas-vamsi&layout=compact&hide_border=true&bg_color=060019&title_color=C026D3&text_color=EDE9FE&langs_count=10" alt="top langs"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=manas-vamsi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%" alt="trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=manas-vamsi&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%" alt="trophies"/>
 
 </div>
 
 ---
 
-## 🐍 Contribution graph
+## 🛰️ Contribution orbit
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manas-vamsi/manas-vamsi/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manas-vamsi/manas-vamsi/output/github-snake.svg" />
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/manas-vamsi/manas-vamsi/output/github-snake.svg" />
+    <img alt="contribution snake orbiting the commit grid" src="https://raw.githubusercontent.com/manas-vamsi/manas-vamsi/output/github-snake.svg" />
   </picture>
 </div>
 
@@ -153,8 +161,8 @@ An interactive, hands-on notebook of **quantum computing** concepts and code.
 
 <div align="center">
 
-<i>“The science is the moat; the product is the bridge.”</i> ⚛️
+<i>“Entanglement is just teamwork at a distance.” — and the best products are entangled science + craft.</i> ⚛️🌌
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,30:5B5FE0,70:3B2C8F,100:0B1020&height=120&section=footer" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,40:C026D3,75:4C1D95,100:060019&height=130&section=footer" width="100%" alt="footer"/>
 
 </div>
