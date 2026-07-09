@@ -38,8 +38,6 @@
 ◦ role        AI Engineer @ NexVista · Quantum Software Engineer
 ◦ building    AI-first platforms with Elixir · Phoenix · Ash AI · PostgreSQL
 ◦ ml          RAG systems · MCP · NLP · applied ML
-◦ quantum     superconducting hardware · QML · quantum neural nets
-◦ creds       IBM Qiskit QAMP · PennyLane
 ◦ location    Hyderabad, India   ◦ status   always shipping 🚀
 ```
 
